@@ -1,3 +1,5 @@
+library(testthat)
+
 test_that("basic_tests", {
   year_array <- c("2000", "2016", "2036", "2050", "2090")
   for(i in year_array)
