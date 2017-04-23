@@ -3,3 +3,5 @@
 ---
 
   This Package has four **fars functions** they are *fars_read()*, *make_filename()*, *fars_read_years()*, *fars_summarize_years()*. Please check the vignettes for explanation about the above functions.
+  
+![travis build](https://travis-ci.org/GopalSeshadri/MyFirstPackage.svg?branch=master)
