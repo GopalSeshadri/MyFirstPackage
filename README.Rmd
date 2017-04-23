@@ -1,13 +1,5 @@
 ---
-output: github_document
+# Fars Functions README document
 ---
 
-<!-- README.md is generated from README.Rmd. Please edit that file -->
-
-```{r, echo = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>",
-  fig.path = "README-"
-)
-```
+  This Package has four **fars functions** they are *fars_read()*, *make_filename()*, *fars_read_years()*, *fars_summarize_years()*. Please check the vignettes for explanation about the above functions.
